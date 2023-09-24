@@ -7,3 +7,8 @@ $ git init
 $ git add 
 $ git commit -m "Add existing project files to Git"
 ```
+## TASKS I HAVE TO COMPLETE TO GET A BEAUTIFUL GIRL AND GOOGLE JOB.
+- [x] Started DSA
+- [x] Started Web Development
+- [x] Started GYM
+- [x] Started Cloud
